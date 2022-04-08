@@ -19,6 +19,14 @@ library(gtsummary)
 library(flextable)
 ```
 \newpage
+
+
+This R Handout and slide are available to download from GitHub. 
+
+* https://github.com/myominnoo/biostats_workshop_pngimr/blob/main/slides/slides.pdf
+* https://github.com/myominnoo/biostats_workshop_pngimr/blob/main/slides/rhandout.pdf
+
+\newpage 
 # Introduction to R in RStudio
 
 ## RStudio

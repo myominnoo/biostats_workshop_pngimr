@@ -28,6 +28,14 @@ library(janitor)
 
 \tableofcontents[hideallsubsections]
 
+## GitHub 
+
+This slide and R Handout are available to download from GitHub. 
+
+https://github.com/myominnoo/biostats_workshop_pngimr/blob/main/slides/slides.pdf
+
+https://github.com/myominnoo/biostats_workshop_pngimr/blob/main/slides/rhandout.pdf
+
 # Research Questions
 
 ## A Good Research Question
